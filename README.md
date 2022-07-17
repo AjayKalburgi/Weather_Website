@@ -1,6 +1,6 @@
 # Weather_Website
 I tried to make a weather website. 
-I have used the OpenWeatherMap API for this project.
+I have used the OpenWeatherMap API (one call API) for this project.
 I have made use HTML, CSS, JS to build this website. 
 I have deployed using Netlify - the link is - https://astounding-youtiao-df88fd.netlify.app/
 
